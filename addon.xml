@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.dutyfuck"
+version="2.3.2"
+name="[COLOR red]DutyFuck[/COLOR]"
+provider-name="EmuZONE - [COLOR black]THE[/COLOR] [COLOR white]ACKERMANN[/COLOR] [COLOR red]ASS[/COLOR]">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>audio</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="de">Pflichtfick - Mädels die so scharf sind das man zum Ficken verpflichtet ist</summary>
+  <description lang="de_DE">Pflichtfick - Mädels die so scharf sind das man zum Ficken verpflichtet ist wie z.B. Sabrina Spice , Missy Mae oder Keysha Grey.</description>
+  <disclaimer lang="de_DE">DESTROY THE ASS OF ANDREA A.</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>    
+  </assets>
+  <news>Fucking Day Of Ackerman</news>
+</extension>
+</addon>
